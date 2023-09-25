@@ -10,7 +10,7 @@
             <v-btn class="mx-4" variant="text" >Cotact</v-btn>
         </v-card-text>
         <v-card-text>
-            @ {{ new Date().getFullYear()}} - <strong>.Furniture AAE IdeaPro All Rights Reserved</strong>
+            @ {{ new Date().getFullYear()}} - <strong>.Furniture AAE IdeaPro All Rights Reserved <br>Made By Usman By Heart</strong>
         </v-card-text>
     </v-card>
   </v-footer>
